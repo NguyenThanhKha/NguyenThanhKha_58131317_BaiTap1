@@ -10,5 +10,5 @@ package NguyenThanhKha_58131317_BaiTap1;
  * @author HP
  */
 public class LopHoc {
-    int themHocSinh(HocSinh hs);
+ 
 }
